@@ -78,7 +78,7 @@ const Button = styled.button`
 `;
 
 
-const Slider = () => {
+export const Slider = () => {
 
   const [slideIndex, setSlideIndex] = useState(0);
 
