@@ -38,7 +38,6 @@ const SocialIcon = styled.div`
 const Center = styled.div`
   flex: 1;
   padding: 20px;
-  background-color: #36c786;
 `;
 
 const Title= styled.h3`
@@ -62,7 +61,6 @@ const ListItem= styled.li`
 const Right = styled.div`
   flex: 1;
   padding: 20px;
-  background-color: #30a1c9;
 `;
 
 const ContactItem = styled.div`
